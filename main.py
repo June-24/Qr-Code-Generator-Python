@@ -8,4 +8,4 @@ s = "https://github.com/June-24"
 url = pyqrcode.create(s) 
   
 # Create and save the png file naming "myqr.png" 
-url.svg("MyGithub.png", scale = 100)
+url.svg("MyGithub.jpg", scale = 100)
